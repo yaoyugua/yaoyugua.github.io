@@ -5,4 +5,5 @@
 layout: home
 ---
 
+![COCOMOCA](/imgs/coco_moca.jpg)
 ![丑丑](/imgs/cat_yuhua.jpg)
