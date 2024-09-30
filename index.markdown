@@ -4,7 +4,7 @@
 
 layout: home
 ---
-
+<!-- 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWEnvWTS3G6NdMg-YXYjXibEpF1P1UUMb9ZmxQss9G3Ro98mpO-Fu97QGY-ad8OQzlBqYUg7Jt_8qX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UYEGBVwkH_o?si=uWfadk2QG358zsdn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -23,4 +23,4 @@ layout: home
   <div style="flex: 1; padding: 10px;">
     <img src="/imgs/cat_yuhua.jpg" alt="丑丑" style="width: 100%; height: auto;">
   </div>
-</div>
+</div> -->
