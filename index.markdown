@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWEnvWTS3G6NdMg-YXYjXibEpF1P1UUMb9ZmxQss9G3Ro98mpO-Fu97QGY-ad8OQzlBqYUg7Jt_8qX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UYEGBVwkH_o?si=uWfadk2QG358zsdn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">📝240804 ライオンの王子 カラオケ<br><br>DISH// - 🎶猫(cover) <br><br>🦁突然ですが僕は猫を非常に愛しています。<br>　 以上です。<br>　　↑<br>　あまりにも可愛すぎる急なご報告なに？？ <a href="https://t.co/AEMUejiRGk">pic.twitter.com/AEMUejiRGk</a></p>&mdash; ᴍᴏᴏɴɪ (@Shingetsuka) <a href="https://twitter.com/Shingetsuka/status/1820102910958875108?ref_src=twsrc%5Etfw">August 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
