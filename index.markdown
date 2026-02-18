@@ -2,13 +2,11 @@
 layout: home
 ---
 
-## About Me
-
 I am a **Senior Research Scientist** at **Intuit AI Research** (Dec 2024 – present). I received my Ph.D. in Computer Science and Engineering from **Michigan State University**, advised by [Prof. Sijia Liu](https://lsjxjtu.github.io/). Before that, I obtained my B.S. in Automation from **Tsinghua University**.
 
 My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model Pruning**, **Prompt Learning**, and **Optimization** (black-box, zeroth-order, bi-level).
 
-**Email:** tony.yuguang.yao@gmail.com &nbsp;\|&nbsp; **Google Scholar Citations:** 1,557 &nbsp;\|&nbsp; [Download CV](CV_Yuguang_Yao_Feb18.pdf)
+**Email:** tony.yuguang.yao@gmail.com &nbsp;\|&nbsp;\|&nbsp; [Download CV](CV_Yuguang_Yao_Feb18.pdf)
 
 ---
 
