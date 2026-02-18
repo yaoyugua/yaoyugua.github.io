@@ -1,26 +1,68 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-<!-- 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWEnvWTS3G6NdMg-YXYjXibEpF1P1UUMb9ZmxQss9G3Ro98mpO-Fu97QGY-ad8OQzlBqYUg7Jt_8qX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UYEGBVwkH_o?si=uWfadk2QG358zsdn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## About Me
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">📝240804 ライオンの王子 カラオケ<br><br>DISH// - 🎶猫(cover) <br><br>🦁突然ですが僕は猫を非常に愛しています。<br>　 以上です。<br>　　↑<br>　あまりにも可愛すぎる急なご報告なに？？ <a href="https://t.co/AEMUejiRGk">pic.twitter.com/AEMUejiRGk</a></p>&mdash; ᴍᴏᴏɴɪ (@Shingetsuka) <a href="https://twitter.com/Shingetsuka/status/1820102910958875108?ref_src=twsrc%5Etfw">August 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+I am a **Senior Research Scientist** at **Intuit AI Research** (Dec 2024 – present). I received my Ph.D. in Computer Science and Engineering from **Michigan State University**, advised by [Prof. Sijia Liu](https://lsjxjtu.github.io/). Before that, I obtained my B.S. in Automation from **Tsinghua University**.
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">猫 / DISH//<br><br>ーーー 僕はまた、幸せで ーーー<br><br>この曲めちゃくちゃ好きになった<br>なんとあいみょんが作詞作曲だったなんて<br>DISH//さん本当にかっこよかったなあ<a href="https://twitter.com/hashtag/DISH?src=hash&amp;ref_src=twsrc%5Etfw">#DISH</a><a href="https://twitter.com/hashtag/%E5%BC%BE%E3%81%8D%E8%AA%9E%E3%82%8A?src=hash&amp;ref_src=twsrc%5Etfw">#弾き語り</a><a href="https://twitter.com/hashtag/%E3%82%A8%E3%82%AD%E3%82%B5%E3%83%9E?src=hash&amp;ref_src=twsrc%5Etfw">#エキサマ</a> <a href="https://t.co/FykqoqvUEp">pic.twitter.com/FykqoqvUEp</a></p>&mdash; waka (@wk__official) <a href="https://twitter.com/wk__official/status/1029321985287831552?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model Pruning**, **Prompt Learning**, and **Optimization** (black-box, zeroth-order, bi-level).
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 10px;">
-    <img src="/imgs/coco_moca.jpg" alt="COCOMOCA" style="width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <img src="/imgs/cooper.jpg" alt="Cooper" style="width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <img src="/imgs/cat_yuhua.jpg" alt="丑丑" style="width: 100%; height: auto;">
-  </div>
-</div> -->
+**Email:** tony.yuguang.yao@gmail.com &nbsp;\|&nbsp; **Google Scholar Citations:** 1,557 &nbsp;\|&nbsp; [Download CV](CV_Yuguang_Yao_Feb18.pdf)
+
+---
+
+## Education
+
+- **Ph.D. in CSE**, Michigan State University, Jan 2021 – May 2025. Advisor: Sijia Liu
+- **Ph.D. Student in CSE**, Tsinghua / MSU, Aug 2018 – Dec 2020. Advisors: Zhichao Cao, Yunhao Liu
+- **B.S. in Automation**, Tsinghua University, Aug 2014 – Jul 2018
+- **Exchange**, École Polytechnique Fédérale de Lausanne (EPFL), Aug 2016 – Feb 2017
+
+---
+
+## Experience
+
+- **Senior Research Scientist**, Intuit AI Research, Dec 2024 – Present
+- **Research Intern**, Cisco Research, Feb 2023 – Jun 2024. Advisor: Gaowen Liu
+- **Research Intern**, MIT-IBM Watson AI Lab, May 2021 – Aug 2021. Advisor: Quanfu Fan
+- **Research Intern**, DiDi AI Lab, Nov 2017 – Feb 2018
+- **Research Intern**, HKUST, Jun 2017 – Sep 2017
+
+---
+
+## Selected Publications
+
+1. Y. Yao\*, Y. Chen\*, et al., **Safety Mirage: How Spurious Correlations Undermine VLM Safety Fine-Tuning**, *ICLR 2026*.
+2. K. Chen, Z. Lin, ..., Y. Yao, et al., **R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation**, *ACL 2025*.
+3. Y. Yao\*, J. Liu\*, et al., **Can Adversarial Examples Be Parsed to Reveal Victim Model Information?**, *WACV 2025*.
+4. Y. Yao\*, Z. Pan\*, et al., **From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models**, *NeurIPS 2024*.
+5. Y. Yao, G. Xiao, et al., **Reverse Engineering of Deceptions on Machine- and Human-Centric Attacks**, *Foundations and Trends in Privacy and Security 2024*.
+6. S. Pal, Y. Yao, et al., **Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized Scaled Prediction Consistency**, *ICLR 2024*.
+7. J. Jia\*, J. Liu\*, ..., Y. Yao, et al., **Model Sparsity Can Simplify Machine Unlearning**, *NeurIPS 2023 Spotlight*.
+8. A. Chen, Y. Yao, et al., **Understanding and Improving Visual Prompting: A Label-Mapping Perspective**, *CVPR 2023*.
+9. Y. Yao\*, Y. Zhang\*, et al., **Advancing Model Pruning via Bi-level Optimization**, *NeurIPS 2022*.
+10. Y. Yao\*, Y. Gong\*, et al., **Reverse Engineering of Imperceptible Adversarial Image Perturbations**, *ICLR 2022*.
+11. Y. Zhang, Y. Yao, et al., **How to Robustify Black-Box ML Models? A Zeroth-Order Optimization Perspective**, *ICLR 2022 Spotlight*.
+
+---
+
+## Patents
+
+- Model Assembly with Knowledge Distillation (US18243259)
+- Domain Adaptation through Model Pruning (US18598148)
+- Modality-Agnostic Diffusion Prompting (Pending)
+- Semantic Segmentation using LLM Supervision (Pending)
+- Bi-Directional LoRA for Machine Unlearning (Pending)
+- Generation Model Pruning for Fairness (Pending)
+- And 4 more pending patents
+
+---
+
+## Service & Awards
+
+- **Workshop Chair**: AdvML Frontiers at ICML'22, ICML'23, NeurIPS'24
+- **Reviewer**: NeurIPS, ICLR, ICML, ACL, CVPR, ACMMM, ICASSP, TPAMI
+- **Travel Grants**: NeurIPS 2022, CVPR 2023, NeurIPS 2024
+- **Best Poster Award**, EWSN 2019
+- **Cisco Research Award** ($75K) for "Towards Lifelong LMM Agents in Embodied AI"
