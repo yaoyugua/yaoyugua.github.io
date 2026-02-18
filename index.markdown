@@ -45,18 +45,6 @@ My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model
 
 ---
 
-## Patents
-
-- Model Assembly with Knowledge Distillation (US18243259)
-- Domain Adaptation through Model Pruning (US18598148)
-- Modality-Agnostic Diffusion Prompting (Pending)
-- Semantic Segmentation using LLM Supervision (Pending)
-- Bi-Directional LoRA for Machine Unlearning (Pending)
-- Generation Model Pruning for Fairness (Pending)
-- And 4 more pending patents
-
----
-
 ## Service & Awards
 
 - **Workshop Chair**: AdvML Frontiers at ICML'22, ICML'23, NeurIPS'24
