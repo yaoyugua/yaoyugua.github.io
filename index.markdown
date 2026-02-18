@@ -6,7 +6,7 @@ I am a **Senior Research Scientist** at **Intuit AI Research** (Dec 2024 – pre
 
 My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model Pruning**, **Prompt Learning**, and **Optimization** (black-box, zeroth-order, bi-level).
 
-**Email:** tony.yuguang.yao@gmail.com &nbsp;\|&nbsp;\|&nbsp; [Download CV](CV_Yuguang_Yao_Feb18.pdf)
+**Email:** tony.yuguang.yao@gmail.com &nbsp;\|&nbsp; [CV](CV_Yuguang_Yao_Feb18.pdf)
 
 ---
 
