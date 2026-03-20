@@ -27,11 +27,13 @@ description: >-
 baseurl: ""
 url: "https://yaoyugua.github.io"
 github_username: yaoyugua
+linkedin_username: tonyyaomsu
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
