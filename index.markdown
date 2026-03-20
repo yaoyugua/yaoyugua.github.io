@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<img src="wechat_profile.jpg" alt="Yuguang Yao" style="float:right; margin: 0 0 1em 2em; width:180px; border-radius:8px;">
+
 I am a **Senior Research Scientist** at **Intuit AI Research** (Dec 2024 – present). I received my Ph.D. in Computer Science and Engineering from **Michigan State University**, advised by [Prof. Sijia Liu](https://lsjxjtu.github.io/). Before that, I obtained my B.S. in Automation from **Tsinghua University**.
 
 My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model Pruning**, **Prompt Learning**, and **Optimization** (black-box, zeroth-order, bi-level).
