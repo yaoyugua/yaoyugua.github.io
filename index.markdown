@@ -14,7 +14,7 @@ My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model
 
 - **Ph.D. in CSE**, Michigan State University, Jan 2021 – May 2025. Advisor: Sijia Liu
 - **Ph.D. Student in CSE**, Tsinghua / MSU, Aug 2018 – Dec 2020. Advisors: Zhichao Cao, Yunhao Liu
-- **B.S. in Automation**, Tsinghua University, Aug 2014 – Jul 2018
+- **B.S. in Automation**, Tsinghua University, Aug 2014 – Jul 2018. Advisor: Hong Wang
 - **Exchange**, École Polytechnique Fédérale de Lausanne (EPFL), Aug 2016 – Feb 2017
 
 ---
