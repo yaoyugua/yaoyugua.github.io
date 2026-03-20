@@ -24,8 +24,8 @@ My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model
 - **Senior Research Scientist**, Intuit AI Research, Dec 2024 – Present
 - **Research Intern**, Cisco Research, Feb 2023 – Jun 2024. Advisor: Gaowen Liu
 - **Research Intern**, MIT-IBM Watson AI Lab, May 2021 – Aug 2021. Advisor: Quanfu Fan
-- **Research Intern**, DiDi AI Lab, Nov 2017 – Feb 2018
-- **Research Intern**, HKUST, Jun 2017 – Sep 2017
+- **Research Intern**, DiDi AI Lab, Nov 2017 – Feb 2018. Advisor: Yashu Liu
+- **Research Intern**, HKUST, Jun 2017 – Sep 2017. Advisor: Pan Hui
 
 ---
 
