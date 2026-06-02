@@ -54,3 +54,10 @@ My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model
 - **Travel Grants**: NeurIPS 2022, CVPR 2023, NeurIPS 2024
 - **Best Poster Award**, EWSN 2019
 - **Cisco Research Award** ($75K) for "Towards Lifelong LMM Agents in Embodied AI"
+
+
+---
+
+## 学习
+
+小时候，学习是完成确定的任务；现在，学习是解决不确定的恐慌。以前总以为，活到老、学到老是鞭策中国人持续进步的口号；现在能理解，那其实是聪明的过来人对一种实现幸福的方式的总结。刚读博士的时候，导师和我说，无论每天做什么，总要留出一些时间写文字，写什么都可以。我一直到最近才能体会到，刷八个小时短视频只会让你失去八个小时，写三十分钟文字，你至少得到了一些文字。 --2026年6月1日
