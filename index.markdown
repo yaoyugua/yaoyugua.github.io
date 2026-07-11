@@ -4,9 +4,9 @@ layout: home
 
 <img src="wechat_profile.jpg" alt="Yuguang Yao" style="float:right; margin: 0 0 1em 2em; width:180px; border-radius:8px;">
 
-I am a **Senior Research Scientist** at **Intuit AI Research** (Dec 2024 – present). I received my Ph.D. in Computer Science and Engineering from **Michigan State University**, advised by [Prof. Sijia Liu](https://lsjxjtu.github.io/). Before that, I obtained my B.S. in Automation from **Tsinghua University**.
+I am a **Research Scientist** at **Intuit** (Dec 2024 – present). Ph.D. in Computer Science from **Michigan State University**, advised by [Prof. Sijia Liu](https://lsjxjtu.github.io/). B.S. in Automation from **Tsinghua University**.
 
-My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model Pruning**, **Prompt Learning**, and **Optimization** (black-box, zeroth-order, bi-level).
+My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model Pruning**, **Prompt Learning**, and **Optimization** (black-box, bi-level).
 
 **Email:** tony.yuguang.yao@gmail.com &nbsp;\|&nbsp; [CV](CV_Yuguang_Yao_Mar20.pdf) &nbsp;\|&nbsp; [Google Scholar](https://scholar.google.com/citations?user=-chIdAkAAAAJ&hl=en) &nbsp;\|&nbsp; [GitHub](https://github.com/yaoyugua) &nbsp;\|&nbsp; [LinkedIn](https://www.linkedin.com/in/tonyyaomsu/)
 
@@ -14,7 +14,7 @@ My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model
 
 ## Education
 
-- **Ph.D. in CSE**, Michigan State University, Jan 2021 – May 2025. Advisor: Sijia Liu
+- **Ph.D. in CSE**, Michigan State University, Jan 2021 – Dec 2024. Advisor: Sijia Liu
 - **Ph.D. Student in CSE**, Tsinghua / MSU, Aug 2018 – Dec 2020. Advisors: Zhichao Cao, Yunhao Liu
 - **B.S. in Automation**, Tsinghua University, Aug 2014 – Jul 2018. Advisor: Hong Wang
 - **Exchange**, École Polytechnique Fédérale de Lausanne (EPFL), Aug 2016 – Feb 2017
@@ -23,7 +23,7 @@ My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model
 
 ## Experience
 
-- **Senior Research Scientist**, Intuit AI Research, Dec 2024 – Present
+- **Research Scientist**, Intuit AI Research, Dec 2024 – Present
 - **Research Intern**, Cisco Research, Feb 2023 – Jun 2024. Advisor: Gaowen Liu
 - **Research Intern**, MIT-IBM Watson AI Lab, May 2021 – Aug 2021. Advisor: Quanfu Fan
 - **Research Intern**, DiDi AI Lab, Nov 2017 – Feb 2018. Advisor: Yashu Liu
@@ -105,3 +105,7 @@ Kevin说不刷小视频的时候可以进行脑中思维实验，他叫这是白
 ## 元素拼接
 
 ![pic](image-1.png)
+
+## DNA
+
+![alt text](image.png)
