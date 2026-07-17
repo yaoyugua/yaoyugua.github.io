@@ -58,6 +58,9 @@ My research focuses on **LLM Agents**, **Adversarial Machine Learning**, **Model
 
 ---
 
+<div class="wiki-discussion-row">
+<div class="wiki-col" markdown="1">
+
 ## 学习
 
 小时候，学习是完成确定的任务；现在，学习是解决不确定的恐慌。以前总以为，活到老、学到老是鞭策中国人持续进步的口号；现在能理解，那其实是聪明的过来人对一种实现幸福的方式的总结。刚读博士的时候，导师和我说，无论每天做什么，总要留出一些时间写文字，写什么都可以。我一直到最近才能体会到，刷八个小时短视频只会让你失去八个小时，写三十分钟文字，你至少得到了一些文字。 --2026年6月1日
@@ -113,3 +116,25 @@ Kevin说不刷小视频的时候可以进行脑中思维实验，他叫这是白
 ## 记录
 
 我昨天问师兄有哪一个球员能在连续两届世界杯以核心球员获得总冠军，他说没有吧，我说贝利算吗，他想到贝利卫冕那次早早退场了，不算核心。再去问谷歌，有1934-1938的朱塞佩；有1958-1962的加林查。今年谁有可能呢？
+
+</div>
+<div class="discussion-col">
+<h2>讨论 Discussion</h2>
+<p><a href="https://github.com/yaoyugua/yaoyugua.github.io/discussions" target="_blank" rel="noopener">在 GitHub Discussions 查看全部 →</a></p>
+<script src="https://giscus.app/client.js"
+        data-repo="yaoyugua/yaoyugua.github.io"
+        data-repo-id="R_kgDOM40Z8g"
+        data-category="General"
+        data-category-id="DIC_kwDOM40Z8s4DBZ4w"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
+</div>
+</div>
