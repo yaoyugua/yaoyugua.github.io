@@ -131,7 +131,7 @@ Kevin说不刷小视频的时候可以进行脑中思维实验，他叫这是白
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="top"
-        data-theme="preferred_color_scheme"
+        data-theme="light"
         data-lang="zh-CN"
         crossorigin="anonymous"
         async>
